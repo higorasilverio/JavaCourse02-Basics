@@ -10,7 +10,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Calculating the circle area ***");
 		double pi = 3.14159;
 		System.out.print("Enter the circle radius: ");
 		double radius = scanner.nextDouble();
